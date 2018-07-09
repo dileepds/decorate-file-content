@@ -1,8 +1,7 @@
 """
 
-This module has two classes. One class is used to define the decorator.
-Other class iterating through the input content and use the decorator class
-to print the input content in desired format.
+This module has one class which iterating through the input content and parse the content to give a desired
+output format
 
 """
 import sys
